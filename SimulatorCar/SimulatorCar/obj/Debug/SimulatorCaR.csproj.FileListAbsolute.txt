@@ -1,0 +1,42 @@
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\obj\Debug\Lab5.EditStreet.resources
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\obj\Debug\SimulatorCaR.csproj.GenerateResource.cache
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\obj\Debug\SimulatorCaR.csproj.CoreCompileInputs.cache
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\bin\Debug\Img\asfalt.jpg
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\bin\Debug\Img\auto_czerwone.png
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\bin\Debug\Img\grass.jpg
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\Lab5\Lab5\obj\Debug\SimulatorCar.csproj.AssemblyReference.cache
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\bin\Debug\Img\asfalt.jpg
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\bin\Debug\Img\auto_czerwone.png
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\bin\Debug\Img\grass.jpg
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\bin\Debug\Lab5.exe.config
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\bin\Debug\Lab5.exe
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\bin\Debug\Lab5.pdb
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\obj\Debug\SimulatorCar.csproj.AssemblyReference.cache
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\obj\Debug\Lab5.EditStreet.resources
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\obj\Debug\Lab5.Form1.resources
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\obj\Debug\SimulatorCar.csproj.GenerateResource.cache
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\obj\Debug\SimulatorCar.csproj.CoreCompileInputs.cache
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\obj\Debug\Lab5.exe
+D:\WWSI III Rok studiow\WP-JIPP 5\Lab\SimulatorCar\Lab5\obj\Debug\Lab5.pdb
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\bin\Debug\Img\asfalt.jpg
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\bin\Debug\Img\auto_czerwone.png
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\bin\Debug\Img\grass.jpg
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\bin\Debug\Lab5.exe.config
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\bin\Debug\Lab5.exe
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\bin\Debug\Lab5.pdb
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\obj\Debug\SimulatorCar.csproj.AssemblyReference.cache
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\obj\Debug\Lab5.EditStreet.resources
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\obj\Debug\Lab5.Form1.resources
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\obj\Debug\SimulatorCar.csproj.GenerateResource.cache
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\obj\Debug\SimulatorCar.csproj.CoreCompileInputs.cache
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\obj\Debug\Lab5.exe
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\SimulatorCar\obj\Debug\Lab5.pdb
