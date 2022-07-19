@@ -1,0 +1,8 @@
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\MC.Control\bin\Debug\MC.Control.dll
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\MC.Control\bin\Debug\MC.Control.pdb
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\MC.Control\obj\Debug\MC.Control.SimpleLabelTextBox.resources
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\MC.Control\obj\Debug\MC.Control.csproj.GenerateResource.cache
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\MC.Control\obj\Debug\MC.Control.csproj.CoreCompileInputs.cache
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\MC.Control\obj\Debug\MC.Control.dll
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\MC.Control\obj\Debug\MC.Control.pdb
+C:\Users\matic\Desktop\Github-projekty\SimulatorCar\MC.Control\obj\Debug\MC.Control.TestKomponent.resources
