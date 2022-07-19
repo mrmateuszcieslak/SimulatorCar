@@ -1,5 +1,5 @@
 
-Create database Map
+Create database Map 
 GO
 USE [Map]
 GO
