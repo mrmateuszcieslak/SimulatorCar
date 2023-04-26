@@ -10,5 +10,9 @@ The database created in Microsoft SQL Server Management Studio 18.10(language da
 
 In the application we can navigate our car and change the data about the streets and their location.
 
+F5 is used to enter the street database , where we can modify their names and their parameters or add them. 
+The SaveChanges button saves our changes. The arrow keys allow you to move the car.
+
+
 
 
