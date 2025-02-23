@@ -1,28 +1,32 @@
-SimulatorCar – Interactive Car Navigation & Street Management System
+# 🚗 SimulatorCar – Interactive Car Navigation & Street Management System  
 
-SimulatorCar is a desktop simulation application developed in C# with Windows Forms, designed to provide an interactive experience for car navigation and street management. The project showcases advanced object-oriented programming (OOP) principles and database integration via ADO.NET.
-Technology Stack:
+**SimulatorCar** is a **desktop simulation application** developed in **C# with Windows Forms**, designed to offer an interactive experience for **car navigation and street management**. The project demonstrates **advanced object-oriented programming (OOP) concepts** and **database integration** using **ADO.NET**, making it an excellent example of a data-driven application.  
 
-    Programming Language: C#
-    Framework: Windows Forms
-    Database: Microsoft SQL Server (MS SQL Server Management Studio 18.10)
-    Development Environment: Visual Studio 2019 Community
-    Data Management: ADO.NET with DataSet model
+## 🛠️ Technology Stack  
 
-Key Features:
+- **Programming Language:** C#  
+- **Framework:** Windows Forms  
+- **Database:** Microsoft SQL Server (MS SQL Server Management Studio 18.10)  
+- **Development Environment:** Visual Studio 2019 Community  
+- **Data Management:** ADO.NET with the DataSet model  
 
-✅ Car Navigation: Control the car using arrow keys for a dynamic driving experience.
+## 🚀 Key Features  
 
-✅ Street Database Management: Press F5 to access and edit street information, including names, locations, and parameters.
+✅ **Dynamic Car Navigation** – Control the car using **arrow keys** for an engaging driving experience.  
 
-✅ Data Persistence: Easily modify or add new streets and save changes with a dedicated "SaveChanges" button.
+✅ **Street Database Management** – Press **F5** to open and modify street details such as names, locations, and additional parameters.  
 
-✅ Real-time Updates: Integrated ADO.NET communication ensures smooth interaction between the application and the database.
-Why This Project Stands Out?
+✅ **Data Persistence** – Modify or add new streets effortlessly and save changes with the **"SaveChanges"** button.  
 
-    Demonstrates proficiency in Windows Forms and database-driven applications.
-    Applies best practices in OOP and ADO.NET-based data handling.
-    Highlights the ability to develop interactive simulations with user-controlled elements.
+✅ **Real-time Updates** – The system ensures smooth communication between the **application and the database** through **ADO.NET integration**.  
+
+## 🎯 Why This Project Stands Out?  
+
+- 📌 Showcases expertise in **Windows Forms** and **database-driven application development**.  
+- 📌 Implements **OOP best practices** combined with **ADO.NET-based data handling**.  
+- 📌 Demonstrates the ability to develop **interactive simulations with real-time user input**.  
+
+
 
 
 
