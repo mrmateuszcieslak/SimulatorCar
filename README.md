@@ -12,8 +12,11 @@ Technology Stack:
 Key Features:
 
 ✅ Car Navigation: Control the car using arrow keys for a dynamic driving experience.
+
 ✅ Street Database Management: Press F5 to access and edit street information, including names, locations, and parameters.
+
 ✅ Data Persistence: Easily modify or add new streets and save changes with a dedicated "SaveChanges" button.
+
 ✅ Real-time Updates: Integrated ADO.NET communication ensures smooth interaction between the application and the database.
 Why This Project Stands Out?
 
